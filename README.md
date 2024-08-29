@@ -11,7 +11,7 @@
 | 최인헌 | 이경민 | 허우영 |
 |:----------:|:----------:|:----------:|
 | <img width="160px" src="https://github.com/heowooyoung/LGAimersHackerton/blob/gh-pages/images/ihc.jpg" /> | <img width="160px" src=https://github.com/heowooyoung/LGAimersHackerton/blob/gh-pages/images/lkm.jpg /> | <img width="160px" src=https://github.com/heowooyoung/LGAimersHackerton/blob/gh-pages/images/hwy.jpg />
-| [@ih9511](https://github.com/2kilometer) | [@2kilometer](https://github.com/2kilometer) | [@heowooyoung](https://github.com/heowooyoung)
+| [@ih9511](https://github.com/ih9511) | [@2kilometer](https://github.com/2kilometer) | [@heowooyoung](https://github.com/heowooyoung)
 ## Rules
 1. 
 2. 
