@@ -1,4 +1,4 @@
-# LG AImers Hackathon
+# LG Aimers Hackathon
 ![LG AImers Hackathon](https://github.com/heowooyoung/LGAimersHackerton/blob/gh-pages/images/LG_image.jpg)   
 **Repository for LG AImers Hackathon & Study.** 
   
