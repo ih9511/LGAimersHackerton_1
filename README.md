@@ -1,7 +1,3 @@
-<div align="left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=240&text=LGAimersHackerton&animation=&fontColor=ffffff&fontSize=70" />
-</div>
-
 ![LG AImers Hackathon](https://github.com/heowooyoung/LGAimersHackerton/blob/gh-pages/images/LG_image.jpg)   
 **Repository for LG AImers Hackathon & Contst Study.** 
 
