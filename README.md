@@ -87,9 +87,3 @@
    * Baseline Model
    * Fine Tuning
    * PPT
-
-**4️⃣ LGAimersHackerton PhaseⅢ** *2024-09-28 ~ 2024.09.29*
-   * 넣   
-
-**❗Issue**
-   * ?    
